@@ -18,7 +18,7 @@ Installation
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/yourusername/DataTablesProcessingTemplate.git
+git clone https://github.com/janindu-gaurinda
 Navigate to the project directory:
 bash
 Copy code
@@ -46,11 +46,11 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 Access the Project Portfolio:
 
-You can access the full project portfolio here.
+You can access the full project portfolio [here](https://github.com/janindu-gaurinda).
 
 Authors:
 
-Janindu Gaurinda - Janindu Gaurinda
+Janindu Gaurinda - [Janindu Gaurinda](https://github.com/janindu-gaurinda)
 
 
 Contributing:
